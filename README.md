@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Posh Raj
 #### I am Data Scientist, ML Engineer and Astrologer
-![I am Data Scientist, ML Engineer and Astrologer](https://ibb.co/94Tw2pS)
+<img src="https://ibb.co/94Tw2pS" alt="I am Data Scientist, ML Engineer and Astrologer" width="500"/>
+
 
 I am interested in Natural Language Processing, Deep Learning and Computer Vision based implementations
 
