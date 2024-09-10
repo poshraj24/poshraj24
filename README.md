@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Posh Raj
-#### I am Data Scientist, ML Engineer and Astrologer
+
 ![github-header-image](https://github.com/user-attachments/assets/0fb6dd57-2ccd-4578-9f6e-fb3eaf21d2f6)
 
 
@@ -28,5 +28,5 @@ Skills: Python, HTML, CSS, JavaScript, Flutter, SQL
 
 ![GitHub metrics](https://metrics.lecoq.io/poshraj24)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=poshraj24)  
+
 
