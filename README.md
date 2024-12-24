@@ -8,10 +8,10 @@ I am interested in Natural Language Processing, Deep Learning and Computer Visio
 
 Skills: Python, HTML, CSS, JavaScript, Flutter, SQL
 
-- 🔭 I’m currently working on Nepali- German Language translation with Gen AI 
-- 🌱 I’m currently learning Computer Vision 
+- 🔭 I’m currently working on Kolmogorov Arnold Network Implementation on Gene Expression Dataset
+- 🌱 I’m currently learning AI in biomedical engineering 
 - 👯 I’m looking to collaborate on ML projects 
-- 💬 Ask me about NLP 
+- 💬 Ask me about NLP, ML 
 - 📫 How to reach me: dahal.poshraj24@gmail.com 
 - ⚡ Fun fact: Ashes can't be burned again 
 
